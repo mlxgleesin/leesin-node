@@ -1,0 +1,11 @@
+{
+  "name": "leesinNode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mlxgleesin/leesin-node.git",
+  "author": "leesin <lihao7364@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
